@@ -9,6 +9,7 @@
 // @icon         https://snowcrows.com/favicon.ico
 // @grant        none
 // @run-at       document-end
+// @license MIT
 // ==/UserScript==
 
 (function () {
